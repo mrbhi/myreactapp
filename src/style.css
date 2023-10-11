@@ -46,7 +46,7 @@ body {
     display: flex;
     align-items: center;
     height: 90px;
-    padding: 30px 25px;
+    padding: 40px 25px;
 }
 .nav-logo-text, .nav-title {
     margin: 0;
@@ -74,9 +74,9 @@ body {
     background-color: #193b44;
     color: white;
     height: 500px;
-    background-image: url(./logo.png);
+    background-image: url(./btesz.png);
     background-repeat: no-repeat;
-    background-position: 130% 75%;
+    background-position: 120% 55%;
 }
 
 .main-title {
